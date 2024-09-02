@@ -1,0 +1,9 @@
+{
+    "validCreds":{
+      "email":"raghavtest123@mailinator.com",
+      "password":"1234567"  
+    },
+    "username":"#username",
+    "password":"#form-login > :nth-child(2) > .fieldarea > .form-control",
+    "clickLoginButton":"#form-login > .formaction > .button"
+}

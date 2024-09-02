@@ -1,0 +1,9 @@
+{
+    "getProductSection":".home-section-grid > .head-section > h2",
+    "getProduct":"#gils-list-bundle-home > li:nth-child(2) > div > div.product__thumb > a",
+    "getQuickTourButton":".button-quick-tour",
+    "addToBagButton":".btn-add-to-bag",
+    "goToBag": ".info > .button",
+    "getReedemVoucherBtn":".shopping-redeem__voucher__left > span"
+    
+}
